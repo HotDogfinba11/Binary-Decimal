@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522868114 source:c:\users\olive\desktop\binary % decimal\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
